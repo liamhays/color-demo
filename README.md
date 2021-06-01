@@ -17,5 +17,7 @@ see below:
 ![Image of the color demo where CRAM dots are visible](color-demo.png)
 
 These are CRAM dots, and they are a side effect of how the VDP handles
-mid-frame palette swaps. There is no way to stop it---instead, we have
-to get creative, like [adding sprites to cover them up](https://s3unlocked.blogspot.com/2017/05/theres-something-in-water.html).
+mid-frame palette swaps. It's present in all 8- and 16-bit Sega VDPs,
+and there's no way to stop it---instead, we have to get creative, like
+[adding sprites to cover them
+up](https://s3unlocked.blogspot.com/2017/05/theres-something-in-water.html).
